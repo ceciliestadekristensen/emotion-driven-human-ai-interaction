@@ -38,15 +38,15 @@ Key components:
 ## Screenshots
 
 ### Unity Interface
-![Frontend](Unity_front.png)
-![Thinking](Unity_thinking.png)
+![Frontend](images/Unity_front.png)
+![Thinking](images/Unity_thinking.png)
 
 ### Emotion States
-![Happy](Unity_happy.png)
-![Stressed](Unity_stressed.png)
+![Happy](images/Unity_happy.png)
+![Stressed](images/Unity_stressed.png)
 
 ### Code Integration
-![Code](Unity_code.png)
+![Code](images/Unity_code.png)
 
 
 ## Future Work
