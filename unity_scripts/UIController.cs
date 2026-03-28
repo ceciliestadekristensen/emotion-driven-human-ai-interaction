@@ -7,7 +7,6 @@
 //
 // NOTE:
 // This version uses SetEmotion(string emotion, Color targetColor)
-// (only 2 parameters — emoji removed)
 
 using TMPro;
 using UnityEngine;
@@ -15,7 +14,7 @@ using UnityEngine;
 [System.Serializable]
 public class AIReply
 {
-    public string emotion;   // e.g. "happy", "sad", "stressed"
+    public string emotion;   // "happy", "sad", "stressed"
     public float score;      // simple confidence / intensity score
     public string reply;     // the natural-language answer from Python
     public float[] color;    // RGB array [r, g, b] in the 0–1 range
