@@ -27,6 +27,14 @@ I designed and implemented both the system architecture and core functionality, 
 - LLM-based response generation
 - Data flow and interaction logic
 
+## Unity Integration
+The Unity frontend visualizes emotions and communicates with the Python backend via TCP.
+
+Key components:
+- Emotion-based color feedback
+- Chat interface
+- Real-time communication with Python server
+
 ## Screenshots
 
 
