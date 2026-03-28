@@ -39,10 +39,10 @@ Key components:
 
 ### Unity Interface
 ![Frontend](Unity_front.png)
+![Thinking](Unity_thinking.png)
 
 ### Emotion States
 ![Happy](Unity_happy.png)
-![Thinking](Unity_thinking.png)
 ![Stressed](Unity_stressed.png)
 
 ### Code Integration
