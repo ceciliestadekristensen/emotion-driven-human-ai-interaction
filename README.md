@@ -37,6 +37,17 @@ Key components:
 
 ## Screenshots
 
+### Unity Interface
+![Frontend](Unity_front.png)
+
+### Emotion States
+![Happy](Unity_happy.png)
+![Thinking](Unity_thinking.png)
+![Stressed](Unity_stressed.png)
+
+### Code Integration
+![Code](Unity_code.png)
+
 
 ## Future Work
 - Improve the accuracy of the emotion detection
