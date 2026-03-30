@@ -1,4 +1,4 @@
-# Emotion Driven Human-AI Interaction
+# Emotion-Driven Human-AI Interaction
 
 This project explores how artificial intelligence can respond to human emotions in real time by combining Unity, Python, and large language models.
 
@@ -6,9 +6,11 @@ This project explores how artificial intelligence can respond to human emotions 
 
 ## Demo
 
-<p align="center"> 
-  <img src="https://raw.githubusercontent.com/ceciliestadekristensen/emotion-driven-human-ai-interaction/main/demo/demo.gif" height="360" /> 
-</p> 
+<p align="center">
+  <a href="https://github.com/ceciliestadekristensen/emotion-driven-human-ai-interaction/blob/main/demo/demo.mp4">
+    <img src="https://raw.githubusercontent.com/ceciliestadekristensen/emotion-driven-human-ai-interaction/main/demo/demo.gif" width="180"/>
+  </a>
+</p>
 
 <p align="center"> 
   <a href="https://github.com/ceciliestadekristensen/emotion-driven-human-ai-interaction/raw/main/demo/demo.mp4">▶ Watch full demo video</a> 
@@ -20,7 +22,7 @@ This project explores how artificial intelligence can respond to human emotions 
 
 This project explores how AI systems can interpret and respond to human emotions in real time.
 
-The system combines a Unity-based interface with a Python backend and a large language model to create a more natural and engaging human-AI interactions.
+The system combines a Unity-based interface with a Python backend and a large language model to create more natural and engaging human-AI interactions.
 
 ---
 
@@ -36,7 +38,7 @@ The system combines a Unity-based interface with a Python backend and a large la
 - Unity (frontend / interaction)
 - Python (backend logic)
 - Large Language Models (LLMs)
-- API based communication
+- API-based communication
 
 ---
 
