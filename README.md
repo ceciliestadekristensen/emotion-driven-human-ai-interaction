@@ -1,6 +1,8 @@
 # Emotion Driven Human-AI Interaction
 
-This project explores how artificial intelligence can respond to human emotions in real time by combining Unity, Python, and large language models (LLMs).
+This project explores how artificial intelligence can respond to human emotions in real time by combining Unity, Python, and large language models.
+
+---
 
 ## Demo
 
@@ -12,54 +14,84 @@ This project explores how artificial intelligence can respond to human emotions 
   <a href="https://github.com/ceciliestadekristensen/emotion-driven-human-ai-interaction/raw/main/demo/demo.mp4">▶ Watch full demo video</a> 
 </p>
 
-## Overview
-The system integrates a Unity-based interface with a Python backend to process user input and generate emotionally aware responses using AI models.
+---
 
-The goal is to create a more natural and engaging human-AI interaction.
+## Overview
+
+This project explores how AI systems can interpret and respond to human emotions in real time.
+
+The system combines a Unity-based interface with a Python backend and a large language model to create a more natural and engaging human-AI interactions.
+
+---
+
+## System Architecture
+- Unity handles the user interaction and visual feedback
+- Python processes the input and manages system logic
+- LLM generates emotionally aware responses
+- Communication between components happens via API calls 
+
+---
 
 ## Technologies
 - Unity (frontend / interaction)
 - Python (backend logic)
-- LLM (language model integration)
-- API communication between systems
+- Large Language Models (LLMs)
+- API based communication
 
-## System Architecture
-- Unity handles the user interaction
-- Python processes input and manages logic
-- LLM generates the responses
-- Data flows between components via API calls
+---
 
-## Development
-This project was developed independently as part of my Human-Centred AI Interaction (HCAI) course.
+## Features
+- Real-time interaction between user and AI  
+- Emotion-based feedback through UI  
+- Integration between Unity and Python backend  
+- LLM-driven conversational responses  
 
-I designed and implemented both the system architecture and core functionality, including:
-- Integration between Unity and Python
-- LLM-based response generation
-- Data flow and interaction logic
-
-## Unity Integration
-The Unity frontend visualizes emotions and communicates with the Python backend via TCP.
-
-Key components:
-- Emotion-based color feedback
-- Chat interface
-- Real-time communication with Python server
+---
 
 ## Screenshots
 
-### Unity Interface
-![Frontend](images/Unity_front.png)
-![Thinking](images/Unity_thinking.png)
+### Interface & Interaction
 
-### Emotion States
-![Happy](images/Unity_happy.png)
-![Stressed](images/Unity_stressed.png)
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="images/Unity_front.png" height="260"/><br>
+      <sub><b>Main Interface</b></sub>
+    </td>
+    <td align="center">
+      <img src="images/Unity_thinking.png" height="260"/><br>
+      <sub><b>Thinking State</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="images/Unity_happy.png" height="260"/><br>
+      <sub><b>Happy State</b></sub>
+    </td>
+    <td align="center">
+      <img src="images/Unity_stressed.png" height="260"/><br>
+      <sub><b>Stressed State</b></sub>
+    </td>
+  </tr>
+</table>
 
-### Code Integration
-![Code](images/Unity_code.png)
+---
 
+### System Integration
 
-## Future Work
-- Improve the accuracy of the emotion detection
-- Expand the interaction complexity
-- Optimize real-time performance
+<p align="center">
+  <img src="images/Unity_code.png" height="260"/><br>
+  <sub><b>Unity–Python Integration</b></sub>
+</p>
+
+---
+
+## Report
+
+This project was developed independently as part of my Human-Centred AI Interaction (HCAI) course.
+
+The full academic report is available here:
+
+[Download Report (PDF)](https://github.com/ceciliestadekristensen/emotion-driven-human-ai-interaction/raw/main/report/Human_Centred_AI.pdf)
+
+---
