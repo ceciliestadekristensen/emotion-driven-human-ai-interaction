@@ -2,6 +2,16 @@
 
 This project explores how artificial intelligence can respond to human emotions in real time by combining Unity, Python, and large language models (LLMs).
 
+## Demo
+
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/ceciliestadekristensen/emotion-driven-ai-interaction/main/demo/demo.gif" width="140" /> 
+</p> 
+
+<p align="center"> 
+  <a href="https://github.com/ceciliestadekristensen/emotion-driven-human-ai-interaction/raw/main/demo/demo.mp4">▶ Watch full demo video</a> 
+</p>
+
 ## Overview
 The system integrates a Unity-based interface with a Python backend to process user input and generate emotionally aware responses using AI models.
 
