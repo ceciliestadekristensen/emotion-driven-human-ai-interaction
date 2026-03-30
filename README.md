@@ -6,10 +6,8 @@ This project explores how artificial intelligence can respond to human emotions 
 
 ## Demo
 
-<p align="center">
-  <a href="https://github.com/ceciliestadekristensen/emotion-driven-human-ai-interaction/blob/main/demo/demo.mp4">
-    <img src="https://raw.githubusercontent.com/ceciliestadekristensen/emotion-driven-human-ai-interaction/main/demo/demo.gif" width="180"/>
-  </a>
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/ceciliestadekristensen/emotion-driven-human-ai-interaction/main/demo/demo.gif" height="360" /> 
 </p>
 
 <p align="center"> 
