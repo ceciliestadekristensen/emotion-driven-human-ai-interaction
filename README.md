@@ -81,7 +81,7 @@ The system combines a Unity-based interface with a Python backend and a large la
 
 <p align="center">
   <img src="images/Unity_code.png" height="260"/><br>
-  <sub><b>Unity–Python Integration</b></sub>
+  <sub><b>Unity-Python Integration</b></sub>
 </p>
 
 ---
