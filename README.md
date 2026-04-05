@@ -1,6 +1,6 @@
 # Emotion-Driven Human-AI Interaction
 
-This project explores how artificial intelligence can respond to human emotions in real time by combining Unity, Python, and large language models.
+An interactive AI system exploring how emotionally aware responses can be created in real time through the combination of Unity, Python and large language models.
 
 ---
 
@@ -18,15 +18,20 @@ This project explores how artificial intelligence can respond to human emotions 
 
 ## Overview
 
-This project explores how AI systems can interpret and respond to human emotions in real time.
+This project explores how AI systems can interpret and respond to human emotions in a more natural and engaging way.
 
-The system combines a Unity-based interface with a Python backend and a large language model to create more natural and engaging human-AI interactions.
+The solution combines a Unity-based interface with a Python backend and LLM-based response generation to create a real-time interaction flow between the user and the system.
+
+The project focuses on both implementation and interaction design, showing how multiple technologies can be connected into one coherent user experience.
 
 ---
 
 ## System Architecture
+
+The system is structured as follows:
+
 - Unity handles the user interaction and visual feedback
-- Python processes the input and manages system logic
+- Python manages backend processing and the system logic
 - LLM generates emotionally aware responses
 - Communication between components happens via API calls 
 
@@ -93,5 +98,22 @@ This project was developed independently as part of my Human-Centred AI Interact
 The full academic report is available here:
 
 [Download Report (PDF)](https://github.com/ceciliestadekristensen/emotion-driven-human-ai-interaction/raw/main/report/Human_Centred_AI.pdf)
+
+---
+
+## Learning Outcome
+
+This project strengthened my experience in:
+
+- Building multi-component systems
+- Connecting frontend and backend logic
+- Working with AI integration
+- Designing interactive experiences across technical layers
+
+---
+
+## Purpose
+
+The purpose of the project was to explore how emotionally responsive AI interaction can be designed and implemented through the integration of interface design, backend logic and language model technology.
 
 ---
